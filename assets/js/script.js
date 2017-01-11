@@ -7,6 +7,20 @@ $( document ).ready(function () {
     }
   );
 
+  $( ".portfolio-item" ).click(
+    function (e) {
+      const img = $( e.target ).attr("src");
+      $( ".lightbox img" ).attr("src", img);
+      $( ".lightbox, .hide-lightbox" ).css("visibility", "visible");
+    }
+  );
+
+  $( ".hide-lightbox" ).click(
+    function (e) {
+      $( ".lightbox, .hide-lightbox" ).css("visibility", "hidden");
+    }
+  );
+
   $(window).scroll(function(){
     var header_heigth = $('.header').height();
     var window_top = $(window).scrollTop() + header_heigth + $(window).height()/2;
