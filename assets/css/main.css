@@ -23,6 +23,21 @@ h3
   {
     padding-top: 1.5%;
   }
+  .header .nav>li>a:focus, .header .nav>li>a:hover
+  {
+    color: #337ab7;
+    text-decoration: none;
+    background-color: transparent;
+  }
+  .header .nav>li>a:hover
+  {
+    text-decoration: underline;
+  }
+  .active>a
+  {
+    color: #fff !important;
+    background-color: #337ab7 !important;
+  }
 
 #inicio
 {
