@@ -1,0 +1,145 @@
+img{
+  max-width: 100%;
+}
+body
+{
+  font-size: 1.5em;
+}
+h1, h2
+{
+  padding-bottom: 50px;
+}
+h3
+{
+  padding-bottom: 20px;
+}
+.header
+{
+  background-color: #F3C8D9; /*rgba(243,200,217, 0.9);*/
+  position: fixed;
+    top: 0;
+}
+  .header nav
+  {
+    padding-top: 1.5%;
+  }
+  .header .nav>li>a:focus, .header .nav>li>a:hover
+  {
+    color: #337ab7;
+    text-decoration: none;
+    background-color: transparent;
+  }
+  .header .nav>li>a:hover
+  {
+    text-decoration: underline;
+  }
+  .active>a
+  {
+    color: #fff !important;
+    background-color: #337ab7 !important;
+  }
+
+#inicio
+{
+  background-image: url("../imgs/capa.jpg");
+  height: 700px;
+}
+
+#quem-somos
+{
+  background-image: url("../imgs/QUEM_SOMOS_2017_(2).jpg");
+  display: table;
+  height: 400px;
+  position: relative;
+}
+
+#portfolio
+{
+  background-image: url("../imgs/TaizaJusabe_158.JPG");
+  position: relative;
+  -webkit-transition: background-image 0.5s linear;
+  -o-transition: background-image 0.5s linear;
+  transition: background-image 0.5s linear;
+}
+  #portfolio .row
+  {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+#promocoes
+{
+  background-color: #FCECDC;
+}
+  .promocao
+  {
+    background-color: rgba(255,255,255,0.4);
+    padding-bottom: 20px;
+  }
+
+#contatos
+{
+  background-color: #121212;
+  color: #f9f9f9;
+}
+/*  CLASSES GENÉRICAS   */
+.color,
+.back,
+.hide-lightbox
+{
+  position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.hide-lightbox
+{
+  position: fixed !important;
+  visibility: hidden;
+}
+.color,
+.hide-lightbox
+{
+  background-color: rgba(100, 100, 100, 0.3);
+}
+.sessao
+{
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+  .conteudo
+  {
+    background-color: rgba(255,255,255,0.8);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: justify;
+  }
+  .center
+  {
+    text-align: center;
+  }
+.paralax
+{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;;
+}
+.font-big
+{
+  font-size: 2em;
+}
+.lightbox
+{
+  position: fixed;
+    top: 100px;
+    left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 0 20px #888888;
+  visibility: hidden;
+}
+  .lightbox img
+  {
+    height: 500px;
+  }
