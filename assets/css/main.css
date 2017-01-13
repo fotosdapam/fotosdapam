@@ -18,6 +18,8 @@ h3
   background-color: #F3C8D9; /*rgba(243,200,217, 0.9);*/
   position: fixed;
     top: 0;
+    left: 0;
+    right: 0;
 }
   .header nav
   {
