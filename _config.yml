@@ -14,13 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fotos da pam
-email: pam.lisboa@yahoo.com.br
+email: fotosdapam@yahoo.com.br
 description: > # this means to ignore newlines until "baseurl:"
   Fotos da pam é o site da fotografa Pammela Lisboa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "fotosdapam.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "www.fotosdapam.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /assets/imgs/avatar.jpg
+social:
+  name: Pammela Lisboa
+  links:
+    - https://www.facebook.com/fotosdapam/?fref=ts
+    - https://www.facebook.com/pammlisboa?fref=ts
+    - https://www.instagram.com/fotosdapam/
 
 # Build settings
 markdown: kramdown
