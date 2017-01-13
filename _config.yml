@@ -20,7 +20,12 @@ description: > # this means to ignore newlines until "baseurl:"
   fotográfica de festas e ensaios fotográficos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.fotosdapam.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /assets/imgs/avatar.jpg
+logo: "assets/imgs/avatar.jpg"
+twitter:
+  username: fotosdapam
+facebook:
+  publisher: fotosdapam
+  admins: pammlisboa
 social:
   name: Pammela Lisboa
   links:
