@@ -16,7 +16,8 @@
 title: Fotos da pam
 email: fotosdapam@yahoo.com.br
 description: > # this means to ignore newlines until "baseurl:"
-  Fotos da pam é o site da fotografa Pammela Lisboa.
+  Fotos da pam é o site da fotografa Pammela Lisboa, que realiza cobertura
+  fotográfica de festas e ensaios fotográficos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.fotosdapam.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/imgs/avatar.jpg
@@ -26,6 +27,7 @@ social:
     - https://www.facebook.com/fotosdapam/?fref=ts
     - https://www.facebook.com/pammlisboa?fref=ts
     - https://www.instagram.com/fotosdapam/
+
 # Build settings
 markdown: kramdown
 # theme: minima
