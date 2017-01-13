@@ -23,7 +23,7 @@ $( document ).ready(function () {
 
   $(window).scroll(function(){
     var header_heigth = $('.header').height();
-    var window_top = $(window).scrollTop() + header_heigth + $(window).height()/2;
+    var window_top = $(window).scrollTop() + header_heigth + 200;
     var sessoes = $( ".sessao" );
     for (var i = 0; i < sessoes.length; i++) {
       var este = $( '#' + sessoes[i].id ).offset();
@@ -32,8 +32,8 @@ $( document ).ready(function () {
       }else{
         este.bottom = $(document).height();
       }
-      // console.log(sessoes[i].id, este);
       if (este.top <= window_top && este.bottom >= window_top) {
+        console.log(sessoes[i]);
         $('.nav li.active').removeClass('active');
         $('.nav li a[href*="#'+ sessoes[i].id +'"]').parent().addClass('active');
       }
