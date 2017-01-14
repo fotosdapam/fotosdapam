@@ -15,7 +15,7 @@ $( document ).ready(function () {
     }
   );
 
-  $( ".hide-lightbox" ).click(
+  $( ".hide-lightbox, .close" ).click(
     function (e) {
       $( ".lightbox, .hide-lightbox" ).css("visibility", "hidden");
     }
