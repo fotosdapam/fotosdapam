@@ -1,4 +1,6 @@
 $( document ).ready(function () {
+  // $( "body" ).css("padding-top", $( ".header" ).height());
+
 
   $( ".portfolio-item" ).hover(
     function (e) {

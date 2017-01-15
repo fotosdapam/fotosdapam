@@ -16,8 +16,7 @@
 title: Fotos da pam
 email: fotosdapam@yahoo.com.br
 description: > # this means to ignore newlines until "baseurl:"
-  Fotos da pam é o site da fotografa Pammela Lisboa, que realiza cobertura
-  fotográfica de festas e ensaios fotográficos.
+  Fotografá de eventos, festas infantís e casamentos em Natal RN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.fotosdapam.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "assets/imgs/min/avatar.jpg"

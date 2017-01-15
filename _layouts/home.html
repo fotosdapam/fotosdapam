@@ -1,11 +1,14 @@
 {% include head.html %}
 
-<section id="inicio" class="paralax sessao">
+<section id="inicio" class="bg-extend sessao container-fluid">
+  <div class="row">
+    <img src="assets/imgs/avatar-trans.png" class="col-md-6 col-md-offset-3" alt="icone">
+  </div>
 </section>
 <section id="quem-somos" class="sessao paralax container-fluid">
   <div class="color"></div>
   <div class="row">
-    <article class="conteudo container-fluid col-md-10 col-md-offset-1">
+    <article class="conteudo container-fluid col-md-10 col-md-offset-1 col-sm-12">
       <header class="center">
         <h2>Quem somos?</h2>
       </header>
@@ -30,7 +33,7 @@
   <!-- <div class="back"></div> -->
   <div class="color"></div>
   <div class="row">
-  <div class="container conteudo col-md-10 col-md-offset-1">
+  <div class="container conteudo col-md-10 col-md-offset-1  col-sm-12">
     {% for post in site.categories.portfolio %}
     <h2 class="center">{{ post.title }}</h2>
       {{ post.content }}
@@ -88,7 +91,7 @@
 <header class="header container-fluid">
   <div class="row">
     <a href="#inicio" class="col-lg-1 col-md-2 col-sm-2 col-xs-4 col-xs-offset-4 col-sm-offset-0" >
-      <img src="assets/imgs/min/avatar.jpg" alt="icone">
+      <img src="assets/imgs/avatar-trans.png" alt="icone">
     </a>
     <!-- <figure class="icon col-md-1">
     </figure> -->

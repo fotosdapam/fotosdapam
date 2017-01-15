@@ -12,7 +12,7 @@
 
   body
   {
-    font-size: 1em;
+    font-size: 1.5em;
   }
   img{
     max-width: 100%;
@@ -27,7 +27,7 @@
   }
   .header
   {
-    background-color: #F3C8D9; /*rgba(243,200,217, 0.9);*/
+    background-color: /*#F3C8D9; */ rgba(243,200,217, .9);
     position: fixed;
       top: 0;
       left: 0;
@@ -56,8 +56,8 @@
 
   #inicio
   {
-    background-image: url("../imgs/capa.jpg");
-    height: 700px;
+    background-image: url("../imgs/fundoblog.jpg");
+    /*height: 700px;*/
   }
 
   #quem-somos
@@ -70,7 +70,7 @@
 
   #portfolio
   {
-    background-image: url("../imgs/TaizaJusabe_158.JPG");
+    background-image: url("../imgs/min/TaizaJusabe_158.jpg");
     position: relative;
     -webkit-transition: background-image 0.5s linear;
     -o-transition: background-image 0.5s linear;
@@ -139,14 +139,10 @@
   {
     background-color: rgba(100, 100, 100, 0.3);
   }
-  .sessao
-  {
-    padding-top: 50px;
-    padding-bottom: 100px;
-  }
+
     .conteudo
     {
-      background-color: rgba(255,255,255,0.8);
+      background-color: rgba(255,255,255,0.5);
       padding-top: 30px;
       padding-bottom: 30px;
       text-align: justify;
@@ -162,6 +158,12 @@
   .paralax
   {
     background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .bg-extend
+  {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -203,10 +205,6 @@
 
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
-  body
-  {
-    font-size: 1.5em;
-  }
   .header nav
   {
     padding-top: 5%;
@@ -216,6 +214,11 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
+  .sessao
+  {
+    padding-top: 50px;
+    padding-bottom: 100px;
+  }
   .header nav
   {
     padding-top: 5%;
