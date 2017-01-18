@@ -6,37 +6,32 @@ categories: portfolio
 ---
 
 <div class="row">
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/jeniffer15anos189.jpg" alt="Jeniffer 15 Anos" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/LouiseeBruno_Marriage82.jpg" alt="Casamento Louise e Bruno" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/LouiseeBruno_Marriage137.jpg" alt="Casamento Louise e Bruno 2" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/LouiseeBruno_Marriage191.jpg" alt="Casamento Louise e Bruno 3" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/LouiseeBruno_Marriage209.jpg" alt="Casamento Louise e Bruno 4" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/maite2yo15.jpg" alt="Maite 2 anos" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/maite2yo82.jpg" alt="Maite 2 anos 2" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/maite2yo85.jpg" alt="Maite 2 anos 3" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/MG_6001.jpg" alt="" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4 col-md-offset-2">
-    <img src="assets/imgs/min/pedroSTCzombie113.jpg" alt="Pedro" class="portfolio-item">
-  </figure>
-  <figure class="col-md-4">
-    <img src="assets/imgs/min/TaizaJusabe_158.jpg" alt="Taiza" class="portfolio-item">
-  </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/jeniffer15anos189.jpg" alt="jeniffer15anos189.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage137.jpg" alt="LouiseeBruno_Marriage137.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage191.jpg" alt="LouiseeBruno_Marriage191.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage209.jpg" alt="LouiseeBruno_Marriage209.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage82.jpg" alt="LouiseeBruno_Marriage82.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/maite2yo15.jpg" alt="maite2yo15.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/maite2yo82.jpg" alt="maite2yo82.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/maite2yo85.jpg" alt="maite2yo85.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/MG_6001.jpg" alt="MG_6001.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/pedroSTCzombie113.jpg" alt="pedroSTCzombie113.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/TaizaJusabe_158.jpg" alt="TaizaJusabe_158.jpg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (1).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (1).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (2).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (2).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (3).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (3).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (4).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (4).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (5).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (5).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (6).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (6).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (7).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (7).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (8).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (8).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52.jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52.jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (1).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (1).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (2).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (2).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38.jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38.jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (3).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (3).jpeg" class="portfolio-item"> </figure>
+  <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (4).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (4).jpeg" class="portfolio-item"> </figure>
+
+
+
 </div>

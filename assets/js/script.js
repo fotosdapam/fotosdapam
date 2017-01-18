@@ -1,6 +1,6 @@
 $( document ).ready(function () {
   // $( "body" ).css("padding-top", $( ".header" ).height());
-
+  let img;
 
   $( ".portfolio-item" ).hover(
     function (e) {
@@ -11,7 +11,7 @@ $( document ).ready(function () {
 
   $( ".portfolio-item" ).click(
     function (e) {
-      const img = $( e.target ).attr("src");
+      img = $( e.target ).attr("src");
       $( ".lightbox img" ).attr("src", img);
       $( ".lightbox, .hide-lightbox" ).css("visibility", "visible");
     }
