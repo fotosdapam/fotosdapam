@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% include head.html %}
+
+<article class="post-content section container-fluid">
+  <div class="row">
+    <div class="container conteudo">
+      <h1 class="center">{{ page.title }}</h1>
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          {{ content }}
+
+          <div class="col-md-5">
+            <h3>Entre em contato</h3>
+            {% include form.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+{% include header.html %}
+{% include footer.html %}

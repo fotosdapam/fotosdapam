@@ -8,7 +8,7 @@
 }
   body
   {
-    font-size: 1.5em;
+    font-size: 1.7em;
     font-family: 'Garamond';
   }
   img{
@@ -101,7 +101,7 @@
     color: #f9f9f9;
     padding-bottom: 50px;
   }
-    .email
+    .p-top
     {
       padding-top: 20px;
     }
@@ -198,6 +198,15 @@
       padding: 0;
       box-shadow: 0 0 20px #888888;
     }
+
+.post-content
+{
+    min-height: 90%;
+    background-color: #FCECDC;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+}
 
 /* Custom, iPhone Retina */
 @media only screen and (min-width : 320px) {

@@ -53,9 +53,9 @@
       <div class="promocao">
         <h3 class="center">{{ post.title }}</h3>
         <div class="col-md-offset-2 col-md-8">
-          {{ post.content }}
+          {{ post.excerpt }}
         </div>
-        <div class="center"><a href="#contatos" class="btn btn-primary">Entre em contato</a></div>
+        <div class="center"><a href="{{ post.url }}" class="btn btn-primary">Veja mais</a></div>
       </div>
     </div>
     {% endfor %}
@@ -72,40 +72,13 @@
       <a href="https://www.instagram.com/fotosdapam" target="_blank"  Z><i class="fa fa-instagram fa-2x"></i> /fotosdapam</a> <br />
       <a href="mailto:fotosdapam@yahoo.com.br"><i class="fa fa-envelope-o fa-2x"></i> : fotosdapam@yahoo.com.br</a>
     </div>
-    <div class="col-md-4 col-md-offset-4 email">
-      <form method="POST" action="http://formspree.io/trollwisard@gmail.com">
-        <div class="">
-          <input type="email" name="email" class="form-control" placeholder="Seu email" required>
-        </div>
-        <div>
-        <textarea name="message" class="form-control" placeholder="Sua menssagem" required></textarea>
-        </div>
-        <div class="right">
-        <button type="submit" class="btn btn-primary">Enviar</button>
-        </div>
-      </form>
+    <div class="col-md-4 col-md-offset-4 p-top">
+      {% include form.html %}
     </div>
   </div>
 </section>
 
-<header class="header container-fluid">
-  <div class="row">
-    <a href="#inicio" class="col-lg-1 col-md-2 col-sm-2 col-xs-4 col-xs-offset-4 col-sm-offset-0" >
-      <img src="assets/imgs/avatar-trans.png" alt="icone">
-    </a>
-    <!-- <figure class="icon col-md-1">
-    </figure> -->
-    <nav class="col-lg-5 col-lg-offset-6 col-md-6 col-md-offset-4 col-sm-7 col-sm-offset-3">
-      <ul class="nav nav-pills">
-        <li role="presentation" class="active"><a href="#inicio">Início</a></li>
-        <li role="presentation"><a href="#quem-somos">Quem somos</a></li>
-        <li role="presentation"><a href="#portfolio">Portfólio</a></li>
-        <li role="presentation"><a href="#promocoes">Promoções</a></li>
-        <li role="presentation"><a href="#contatos">Contatos</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
+{% include header.html %}
 
 
 <div class="hide-lightbox"></div>
