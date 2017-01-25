@@ -5,7 +5,7 @@ date:   2017-01-12 21:02:44 -0300
 categories: quem-somos
 ---
 
-Quando o [#FotosdaPam](#) nasceu, o objetivo sempre foi retratar pessoas
+Quando o <a href="https://www.facebook.com/hashtag/Fotosdapam?fref=ts" target="_blank">#FotosdaPam</a> nasceu, o objetivo sempre foi retratar pessoas
 de forma natural, com suavidade em leves sorrisos e grandes gargalhadas.
 Fotografando sempre com alegria, amor e felicidade. De ensaios a eventos,
 fazendo de seu sorriso nosso melhor registro.
@@ -20,7 +20,7 @@ fazendo de seu sorriso nosso melhor registro.
 ### A FOTOGRAFA
 
   Me chamo Pammela, mas prefiro grandemente que me chame de Pam. Traduzo meus
-  sentimentos em fotografia, gosto dizer que o [#FotosdaPam](#) é um projeto da
+  sentimentos em fotografia, gosto dizer que o  <a href="https://www.facebook.com/hashtag/Fotosdapam?fref=ts" target="_blank">#FotosdaPam</a> é um projeto da
   minha vida, onde eu e minha equipe fotografamos, editamos e expressamos os
   sentimentos em registros de amor.
 
