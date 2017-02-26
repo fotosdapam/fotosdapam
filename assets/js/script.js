@@ -1,13 +1,19 @@
 $( document ).ready(function () {
   // $( "body" ).css("padding-top", $( ".header" ).height());
-  let img;
+  // let img;
+  //
+  // $( ".portfolio-item" ).hover(
+  //   function (e) {
+  //     const img = $( e.target ).attr("src");
+  //     $( '#portfolio' ).css("background-image", "url("+img+")");
+  //   }
+  // );
 
-  $( ".portfolio-item" ).hover(
-    function (e) {
-      const img = $( e.target ).attr("src");
-      $( '#portfolio' ).css("background-image", "url("+img+")");
-    }
-  );
+  (function () {
+    const imgs = $('.portfolio-item');
+    const img = $(imgs[Math.floor(Math.random()*imgs.length)]).attr('src');
+    $( '#portfolio' ).css("background-image", "url("+img+")");
+  })()
 
   $( ".portfolio-item" ).click(
     function (e) {
@@ -35,7 +41,6 @@ $( document ).ready(function () {
         este.bottom = $(document).height();
       }
       if (este.top <= window_top && este.bottom >= window_top) {
-        console.log(sessoes[i]);
         $('.nav li.active').removeClass('active');
         $('.nav li a[href*="#'+ sessoes[i].id +'"]').parent().addClass('active');
       }

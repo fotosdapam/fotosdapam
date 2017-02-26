@@ -1,4 +1,3 @@
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/imgs.sh" alt="imgs.sh" class="portfolio-item"> </figure>
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/jeniffer15anos189.jpg" alt="jeniffer15anos189.jpg" class="portfolio-item"> </figure>
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage137.jpg" alt="LouiseeBruno_Marriage137.jpg" class="portfolio-item"> </figure>
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/LouiseeBruno_Marriage191.jpg" alt="LouiseeBruno_Marriage191.jpg" class="portfolio-item"> </figure>
@@ -10,17 +9,17 @@
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/MG_6001.jpg" alt="MG_6001.jpg" class="portfolio-item"> </figure>
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/pedroSTCzombie113.jpg" alt="pedroSTCzombie113.jpg" class="portfolio-item"> </figure>
 <figure class="col-md-4"> <img src="assets/imgs/min/portfolio/TaizaJusabe_158.jpg" alt="TaizaJusabe_158.jpg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (1).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (1).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (2).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (2).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (3).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (3).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (4).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (4).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (5).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (5).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (6).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (6).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (7).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (7).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52 (8).jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52 (8).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.23.52.jpeg" alt="WhatsApp Image 2017-01-17 at 18.23.52.jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (1).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (1).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (2).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (2).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (3).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (3).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38 (4).jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38 (4).jpeg" class="portfolio-item"> </figure>
-<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp Image 2017-01-17 at 18.27.38.jpeg" alt="WhatsApp Image 2017-01-17 at 18.27.38.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__1_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__1_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__2_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__2_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__3_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__3_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__4_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__4_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__5_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__5_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__6_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__6_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__7_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__7_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52__8_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52__8_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.23.52.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.23.52.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.27.38__1_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.27.38__1_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.27.38__2_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.27.38__2_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.27.38__3_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.27.38__3_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.27.38__4_.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.27.38__4_.jpeg" class="portfolio-item"> </figure>
+<figure class="col-md-4"> <img src="assets/imgs/min/portfolio/WhatsApp_Image_2017-01-17_at_18.27.38.jpeg" alt="WhatsApp_Image_2017-01-17_at_18.27.38.jpeg" class="portfolio-item"> </figure>

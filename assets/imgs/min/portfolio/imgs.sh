@@ -1,6 +1,7 @@
 for f in *;
 do
-  # echo $f;
+  new=$(echo $f | sed -r "s/[ ,(,)]/_/g");
+  mv -i "$f" "$new";
   a='<figure class="col-md-4">
     <img src="assets/imgs/min/portfolio/';
   b='" alt="';
