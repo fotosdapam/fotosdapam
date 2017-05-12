@@ -20,12 +20,12 @@ As regrinhas são essas abaixo, qualquer dúvida é só entrar em contato.
 - Todos dois pacotes digitais de envio em até 5000 dpis de qualidade por drive, disponibilizado por 20 dias para download. Edição de luz, cor, brilho, contraste, saturação e claridade apenas. Todas as fotos serão enviadas com logo @fotosdapam;
 - Caso deseje fotos em outros locais, a taxa de deslocamento fica R$50,00 pra dentro Natal, ou R$70,00 para Grande Natal.
 
-MiniEnsaio para sábado e domingo no Parque das Dunas, Cidade da Criança ou Jardins UFRN somente.
+MinEnsaio digitais para sábado e domingo no Parque das Dunas, Cidade da Criança ou Jardins UFRN somente, sem troca de roupas (Já vai vestido com o look do ensaio).
 
 30 minutos de sessão
 - 10 fotos digitais: R$100,00
 - 20 fotos digitais: R$180,00
-- 30 fotos digitais e 5 reveladas 10x15cm: R$220,00.
+- 30 fotos digitais e 5 reveladas 10x15cm: R$220,00
 
 Ficamos gratos por sua preferência, amamos fazer do seu registro nosso melhor amor. Até breve! Enjoy it!
 
