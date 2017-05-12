@@ -2,7 +2,7 @@
 layout: promo
 title:  "Promoçao de mini ensaios"
 date:   2017-01-12 21:02:44 -0300
-categories: oldpromo
+categories: promo
 ---
 
 Vendo uma ótima oportunidade de você conhecer o trabalho do  <a href="https://www.facebook.com/hashtag/Fotosdapam?fref=ts" target="_blank">#FotosdaPam</a> e se apaixonar, estamos com uma promoção continua de mini ensaios. 
